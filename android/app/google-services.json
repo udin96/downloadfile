@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "543893348735",
+    "project_id": "downloadfile-fc087",
+    "storage_bucket": "downloadfile-fc087.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543893348735:android:db1f2840e175ad1143fa4a",
+        "android_client_info": {
+          "package_name": "com.example.flutterdownload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543893348735-jh282o6op32q0gqt03r8fvd5oga6st5n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutterdownload",
+            "certificate_hash": "98b9f01140ba51eb7f53768dd298d4a0f906cd5c"
+          }
+        },
+        {
+          "client_id": "543893348735-qmldvqtp2uju8u1ie9tpubkoa2cfvkhh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjndbpiviPUsKUdKeSBsoxSVYqTtrBevc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543893348735-qmldvqtp2uju8u1ie9tpubkoa2cfvkhh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
